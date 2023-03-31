@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2GKeZaNAIqtLqbFlKfirijqCMMwjyegJRN85/svGj5A5BhBrAD+ybjGXPPv/Fl2Z7RxSwa1GishXbwEgUCP/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_ryatse\\Desktop\\forgt\\pr2.6\\pr2.6\\pr2.6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_ryatse\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

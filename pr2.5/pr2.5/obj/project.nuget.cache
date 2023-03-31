@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3V1urNNQHB8UO8N4oQIyCPgsvSXwad/cgDjNjMhvmZ05RgMPOo6M9Sw6mC9YMAZ+zj95qZuTptsAV2GFRIQ7bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr612_ryatse\\Desktop\\forgt\\pr2.5\\pr2.5\\pr2.5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr612_ryatse\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gr612_ryatse\\.nuget\\packages\\npgsql\\8.0.0-preview.2\\npgsql.8.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\gr612_ryatse\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\bin\Debug\net6.0\pr2.6.exe
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\bin\Debug\net6.0\pr2.6.deps.json
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\bin\Debug\net6.0\pr2.6.runtimeconfig.json
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\bin\Debug\net6.0\pr2.6.dll
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\bin\Debug\net6.0\pr2.6.pdb
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.csproj.AssemblyReference.cache
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.AssemblyInfoInputs.cache
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.AssemblyInfo.cs
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.csproj.CoreCompileInputs.cache
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.csproj.CopyComplete
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.dll
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\refint\pr2.6.dll
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.pdb
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\pr2.6.genruntimeconfig.cache
+C:\Users\gr612_ryatse\Desktop\forgt\pr2.6\pr2.6\obj\Debug\net6.0\ref\pr2.6.dll
